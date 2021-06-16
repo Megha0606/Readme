@@ -25,6 +25,9 @@ But how can we be sure that the model treats both these variables equally? When 
 
 Another reason why feature scaling is applied is that few algorithms like Neural network gradient descent converge much faster with feature scaling than without it.
 
+![Scaline3](https://user-images.githubusercontent.com/69664057/122173727-b236f480-ce9f-11eb-830d-23f4400a92d4.png)
+
+
 
 
 
