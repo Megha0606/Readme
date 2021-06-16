@@ -13,6 +13,10 @@ Scaling can make a difference between a weak machine learning model and a better
 The most common techniques of feature scaling are Normalization and Standardization.
 Normalization is used when we want to bound our values between two numbers, typically, between [0,1] or [-1,1]. While Standardization transforms the data to have zero mean and a variance of 1, they make our data unitless. Refer to the below diagram, which shows how data looks after scaling in the X-Y plane.
 
+![Feature scaling](https://user-images.githubusercontent.com/69664057/122173553-7865ee00-ce9f-11eb-9f54-7d4a0e7e7641.png)
+
+
+
 # Why do we need Feature Transformation and Scaling?
 
 Oftentimes, we have datasets in which different columns have different units – like one column can be in kilograms, while another column can be in centimeters. Furthermore, we can have columns like income which can range from 20,000 to 100,000, and even more; while an age column which can range from 0 to 100(at the most). Thus, Income is about 1,000 times larger than age.
