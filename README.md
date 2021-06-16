@@ -3,6 +3,9 @@
 
 # What is feature Scaling?
 
+![Scaling](https://user-images.githubusercontent.com/69664057/122173223-2de47180-ce9f-11eb-9035-ae2d9b4a8f4c.png)
+
+
 Feature scaling in machine learning is one of the most critical steps during the pre-processing of data before creating a machine learning model. 
 
 Scaling can make a difference between a weak machine learning model and a better one.
